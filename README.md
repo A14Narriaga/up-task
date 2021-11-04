@@ -1,11 +1,3 @@
-## Commits style
-- 🐛 FIX 🔹 Description
-- ✨ FEAT 🔹 Description
-- 🔨 REFACTOR 🔹 Description
-- 🎨 STYLE 🔹 Description
-- ⚙️ CONF 🔹 Description
-- 📝 TEXT 🔹 Description
-
 ## Start a proyect
 ```
 npm init -y
@@ -51,3 +43,11 @@ heroku -v
 heroku login
 heroku logs --tail --app a14narriaga-up-task
 ```
+
+## Commits style
+- 🐛 FIX 🔹 Description
+- ✨ FEAT 🔹 Description
+- 🔨 REFACTOR 🔹 Description
+- 🎨 STYLE 🔹 Description
+- ⚙️ CONF 🔹 Description
+- 📝 TEXT 🔹 Description
