@@ -4,6 +4,7 @@
 - 🔨 REFACTOR 🔹 Description
 - 🎨 STYLE 🔹 Description
 - ⚙️ CONF 🔹 Description
+- 📝 TEXT 🔹 Description
 
 ## Start a proyect
 ```
