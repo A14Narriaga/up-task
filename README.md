@@ -1,3 +1,9 @@
+## Commits style
+- 🐛 FIX 🔹 Description
+- ✨ FEAT 🔹 Description
+- 🔨 REFACTOR 🔹 Description
+- 🎨 STYLE 🔹 Description
+
 ## Start a proyect
 ```
 npm init -y
