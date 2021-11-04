@@ -3,6 +3,7 @@
 - ✨ FEAT 🔹 Description
 - 🔨 REFACTOR 🔹 Description
 - 🎨 STYLE 🔹 Description
+- ⚙️ CONF 🔹 Description
 
 ## Start a proyect
 ```
